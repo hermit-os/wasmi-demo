@@ -19,7 +19,7 @@ The source code of the wasm module is published in the directory `examples\fib`.
 
 The unikernel can be built using the following Makefile target:
 
-```
+```console
 make build
 ```
 
